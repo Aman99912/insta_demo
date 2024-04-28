@@ -56,6 +56,7 @@ body{
 .btn{
     width: 48%;
     height: 30px;
+    border-radius: 10px;
 }
 .bio{
     display: block;
